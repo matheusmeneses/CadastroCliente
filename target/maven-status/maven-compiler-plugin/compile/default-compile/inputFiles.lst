@@ -1,0 +1,8 @@
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/dominios/Cliente.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/servico/ComandoAlterarCliente.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/CadastroClienteApplication.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/controller/ClienteController.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/dominios/CadastroEndereco.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/servico/ComandoCriarCliente.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/repositorios/ClienteRepositorio.java
+/home/matheus/Área de Trabalho/programaçao/Projeto Orange Talents/CadastroCliente/src/main/java/com/desafio/cadastrocliente/servico/ClienteServicoAplicacao.java

@@ -1,0 +1,8 @@
+com/desafio/cadastrocliente/servico/ClienteServicoAplicacao.class
+com/desafio/cadastrocliente/repositorios/ClienteRepositorio.class
+com/desafio/cadastrocliente/dominios/Cliente.class
+com/desafio/cadastrocliente/dominios/CadastroEndereco.class
+com/desafio/cadastrocliente/servico/ComandoCriarCliente.class
+com/desafio/cadastrocliente/CadastroClienteApplication.class
+com/desafio/cadastrocliente/controller/ClienteController.class
+com/desafio/cadastrocliente/servico/ComandoAlterarCliente.class
