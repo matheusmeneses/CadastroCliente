@@ -1,5 +1,6 @@
 package com.desafio.cadastrocliente.dominios;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -8,6 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -32,8 +34,8 @@ public class Cliente {
     @Column(name = "data_nascimento")
     private String dataNascimento;
 
-    @OneToMany (mappedBy = "cliente")
-    private List<CadastroEndereco> enderecos;
+    @OneToMany (mappedBy = "cliente", cascade = CascadeType.ALL)
+    private List<CadastroEndereco> enderecos= new ArrayList<>();
 
     public Long getCodigo() {
         return codigo;
